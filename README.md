@@ -42,8 +42,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince-kumar-it&show_icons=true&theme=radical" alt="stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-it&layout=compact&theme=radical" alt="langs" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=princekumar983777&show_icons=true&theme=radical" alt="stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekumar983777&layout=compact&theme=radical" alt="langs" height="170"/>
 </p>
 
 ---

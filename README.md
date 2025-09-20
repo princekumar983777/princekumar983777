@@ -57,8 +57,9 @@
 ---
 
 ## 🐍 Contribution Snake
-![github contribution grid snake](https://raw.githubusercontent.com/prince-kumar-it/prince-kumar-it/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![github contribution grid snake dark](https://raw.githubusercontent.com/prince-kumar-it/prince-kumar-it/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/princekumar983777/princekumar983777/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/princekumar983777/princekumar983777/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 ---
 
